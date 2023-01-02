@@ -2,14 +2,12 @@
 ADD
 use o comando `git add 'exemplo.txt'` 
     para adcionar um arquivo específico
-ou
-use o comando `git .add`
+use o comando `git add .`
     para adcionar todos os arquivos de uma vez só
 
 COMMIT
 use o comando `git commit 'exemplo.txt' -m "descrição"`
     para commitar um arquivo específico
-ou
 use o comando `git commit -a -m "descrição"`
     para commitar todos os arquivos de uma vez só
 
