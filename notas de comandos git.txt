@@ -23,3 +23,8 @@ use o comando `git pull`
         ex: quando alguém atualiza ou adciona alguma funcionalidade
             da aplicação, então se utiliza o `git pull` para atualizar
             essas funcionalidades nos arquivos locais.
+
+CLONE   
+use o comando `git clone 'url do repositório(ex: https://github.com/Rubemvn/curso_git_01.git)' .`
+    para clonar um repositório e baixar ele nos arquivos locais
+    
