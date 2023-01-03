@@ -29,3 +29,12 @@ use o comando `git clone 'url do repositório(ex: https://github.com/Rubemvn/cur
 LOG
 use o comando `git log`
     para verificar o histórica de commit's feitos no seu repositório
+
+MV
+use o comando `git mv './exemplo_01/exemplo.txt' './exemplo_02/exemplo.txt'`
+    para mover o arquivo de um local para o outro
+use o comando `git mv './ex_01/exemplo.txt' './ex_01/exemplo_MODIFICADO.txt'`
+    para alterar o nome de um determinado arquivo
+
+CHECKOUT
+use o comando ``
