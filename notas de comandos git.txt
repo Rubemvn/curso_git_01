@@ -26,3 +26,6 @@ CLONE
 use o comando `git clone 'url do repositório(ex: https://github.com/Rubemvn/curso_git_01.git)' .`
     para clonar um repositório e baixar ele nos arquivos locais
     
+LOG
+use o comando `git log`
+    para verificar o histórica de commit's feitos no seu repositório
