@@ -39,3 +39,6 @@ use o comando `git mv './ex_01/exemplo.txt' './ex_01/exemplo_MODIFICADO.txt'`
 CHECKOUT
 use o comando `git checkout 'exemplo_01/exemplo.txt'`
     para o arquivo voltar a seu estado anterior a edição
+
+IGNORE
+    
