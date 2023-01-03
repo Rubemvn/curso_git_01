@@ -47,3 +47,12 @@ crie um arquivo com o nome `.gitignore` e envie ele para o repositório
         ex: "exemplo.txt
             pasta_de_exemplo/*"
 
+RESET
+use o comando `git reset --hard origin/main`
+    para resetar a branch antes das alterações e commits feitos
+    até o último "git push"
+
+
+
+
+
