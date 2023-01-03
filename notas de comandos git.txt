@@ -41,4 +41,9 @@ use o comando `git checkout 'exemplo_01/exemplo.txt'`
     para o arquivo voltar a seu estado anterior a edição
 
 IGNORE
-    
+crie um arquivo com o nome `.gitignore` e envie ele para o repositório
+    dentro desse arquivo coloque o nome dos arquivos ou pastas que 
+    vão ser ignorados e não seram enviados para o repositório
+        ex: "exemplo.txt
+            pasta_de_exemplo/*"
+
