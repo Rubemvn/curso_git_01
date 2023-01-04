@@ -53,6 +53,9 @@ use o comando `git reset --hard origin/main`
     até o último "git push"
 
 
+    rúbem lindo
+
+
 
 
 
